@@ -1,4 +1,16 @@
-Nova Terra: Sinal Perdido
+Monstro:
+Eclipse
+
+Áreas:
+- Corredor vermelho
+- Sala do motor
+- Laboratório
+- Ponte de comando
+
+Itens:
+- Lanterna
+- Cartão de acesso
+- Máscara de oxigênioNova Terra: Sinal Perdido
 
 Jogo de terror 3D espacial.
 
